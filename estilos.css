@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Poppins', sans-serif;
+   
+}
+.contenedor-todo{
+    max-width: 500px;
+
+}
+.lista-pizza{
+
+}
+
+.item-pizza{
+    margin: 5%;
+}
+
+.caja-pizza{
+
+}
+
+.imagen-pizza{
+    width: 100px;
+    height: 100px;
+}
+
+.informacion-pizza{
+    
+}
+.nombre-pizza{
+    font-size: 14px;
+    font-weight: 800;
+    color: black;
+}
+
+.ingrediente-pizza{
+    font-size: 12px;
+    font-weight: 400;
+    color: grey;
+}
+
+.info-precio-pizza{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.precio-pizza{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.sumar-pizza{
+
+}
